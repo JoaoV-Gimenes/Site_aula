@@ -1,0 +1,11 @@
+.barra_de_navegacao{
+    background-color: grey;
+    display: flex;
+    color: white;
+    justify-content: center;
+    gap: 50px;
+}
+.site{
+    background-color: black;
+    color: white;
+}
